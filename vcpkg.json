@@ -1,0 +1,11 @@
+{
+  "dependencies": [
+    "assimp",
+    "glew",
+    "glfw",
+    "glm",
+    "imgui",
+    "sdl2",
+    "opengl"
+  ]
+}
